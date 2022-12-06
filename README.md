@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @interbr
 - 👀 I’m interested in entertainment
 - 🌱 I’m currently learning to live on alone in a 3d-website
-- 💞️ I’m looking to collaborate on t-cup.space, html-metaverse
+- 💞️ I’m looking to collaborate on [[t-cup.space]], html-metaverse
 - 📫 How to reach me ... see contact
